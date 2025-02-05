@@ -16,5 +16,9 @@
 
 - For Buttons Use Argon Button
 - For options use Select and multiselect component
-- use font awesome icons for illustrations
-- the hovering and button should change with user-prefernce theme
+- For description use Argon Text-area and quill editor(use ony of text formatting)
+- Use font awesome icons for illustrations 
+- Use Argon Badges for the badges
+- Hovering and Button should change with user-preference theme check navstore.js file for theme related changes
+- Use bg-gradient from Avatars and it should also be user-preference theme.
+- For table entries Use Datatables, Refer doc if needed https://vue3-datatable-document.vercel.app/
